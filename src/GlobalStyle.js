@@ -10,6 +10,6 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        font-family: Barlow;
+        font-family: 'Barlow', sans-serif;
     }
 `;
