@@ -17,4 +17,10 @@ export const HeaderButton = styled.button`
   border: none;
   font-weight: 700;
   padding: 16px 27px;
+
+  &:hover {
+    cursor: pointer;
+    background: ${({ theme }) => theme.color.bigStone};
+    color: ${({ theme }) => theme.color.white};
+  }
 `;
