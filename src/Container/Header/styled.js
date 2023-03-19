@@ -23,4 +23,8 @@ export const HeaderButton = styled.button`
     background: ${({ theme }) => theme.color.bigStone};
     color: ${({ theme }) => theme.color.white};
   }
+
+  @media(max-width: ${({theme}) => theme.breakpoint.mobile}px){
+    padding: 14px 11px;
+  }
 `;

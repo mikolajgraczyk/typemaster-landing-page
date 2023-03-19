@@ -7,5 +7,8 @@ export const theme = {
     wildBlueYonder: "#7B8BAD",
     mystic: "#E8EFF2",
   },
-  breakpoint: {},
+  breakpoint: {
+    tablet: 768,
+    mobile: 675,
+  },
 };

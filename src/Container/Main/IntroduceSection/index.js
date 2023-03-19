@@ -6,8 +6,7 @@ import {
   Wrapper,
   Button,
   Release,
-  ImageWrapper,
-  KeyboardImage,
+  Image,
 } from "./styled";
 import KeyboardImageDesktop from "./Images/image-keyboard-desktop.jpg";
 
@@ -24,9 +23,7 @@ const IntroduceSection = () => (
         <Release>Release on 5/27</Release>
       </Wrapper>
     </Content>
-    <ImageWrapper>
-      <KeyboardImage src={KeyboardImageDesktop} />
-    </ImageWrapper>
+    <Image />
   </StyledIntroduceSection>
 );
 
