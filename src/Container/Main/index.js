@@ -1,9 +1,10 @@
-import {StyledMain} from "./styled";
+import { StyledMain } from "./styled";
+import IntroduceSection from "./IntroduceSection";
 
 const Main = () => (
-    <StyledMain>
-
-    </StyledMain>
+  <StyledMain>
+    <IntroduceSection />
+  </StyledMain>
 );
 
 export default Main;
