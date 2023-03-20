@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/typemaster-landing-page/static/js/main.bc8815f0.js",
+    "static/js/787.8bc0342b.chunk.js": "/typemaster-landing-page/static/js/787.8bc0342b.chunk.js",
+    "static/media/image-keyboard-desktop.jpg": "/typemaster-landing-page/static/media/image-keyboard-desktop.8fd1b16e95a8d5678006.jpg",
+    "static/media/image-phone-and-keyboard-desktop.jpg": "/typemaster-landing-page/static/media/image-phone-and-keyboard-desktop.fad0ac14edfa43268cd8.jpg",
+    "static/media/image-glass-and-keyboard-desktop.jpg": "/typemaster-landing-page/static/media/image-glass-and-keyboard-desktop.dd62168e4e40ffbef746.jpg",
+    "static/media/image-keyboard-tablet.jpg": "/typemaster-landing-page/static/media/image-keyboard-tablet.f344ffa92fc5f85e1d64.jpg",
+    "static/media/image-glass-and-keyboard-tablet.jpg": "/typemaster-landing-page/static/media/image-glass-and-keyboard-tablet.85d2dcc355f7452486bc.jpg",
+    "static/media/image-keyboard-mobile.jpg": "/typemaster-landing-page/static/media/image-keyboard-mobile.bd0aeeafb6adfda0a9ba.jpg",
+    "static/media/image-phone-and-keyboard-tablet.jpg": "/typemaster-landing-page/static/media/image-phone-and-keyboard-tablet.41ef99e0b83c121318df.jpg",
+    "static/media/image-glass-and-keyboard-mobile.jpg": "/typemaster-landing-page/static/media/image-glass-and-keyboard-mobile.c2b923acff4e2bd4d43f.jpg",
+    "static/media/image-phone-and-keyboard-mobile.jpg": "/typemaster-landing-page/static/media/image-phone-and-keyboard-mobile.da1835ce37b1789aadd8.jpg",
+    "static/media/LightIcon.svg": "/typemaster-landing-page/static/media/LightIcon.762c82d2ae2c9bc79ce71c9f00de0cc8.svg",
+    "index.html": "/typemaster-landing-page/index.html",
+    "static/media/Logo.svg": "/typemaster-landing-page/static/media/Logo.59dff8e2243f1e55c5208e06915d53f4.svg",
+    "static/media/BluetoothIcon.svg": "/typemaster-landing-page/static/media/BluetoothIcon.671d67b852a91e7e522e30ff2b9b295e.svg",
+    "static/media/BatteryIcon.svg": "/typemaster-landing-page/static/media/BatteryIcon.aac4e71bb65a6278a439ad326302bf95.svg",
+    "static/media/CompatibleIcon.svg": "/typemaster-landing-page/static/media/CompatibleIcon.460c5f05e1b3bca7bc6adb96bb11ac89.svg",
+    "static/media/SquarePattern.svg": "/typemaster-landing-page/static/media/SquarePattern.c15c40332ce30f488498015294554c31.svg",
+    "main.bc8815f0.js.map": "/typemaster-landing-page/static/js/main.bc8815f0.js.map",
+    "787.8bc0342b.chunk.js.map": "/typemaster-landing-page/static/js/787.8bc0342b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc8815f0.js"
+  ]
+}
