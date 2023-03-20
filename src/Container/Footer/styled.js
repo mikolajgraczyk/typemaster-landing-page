@@ -6,11 +6,11 @@ export const StyledFooter = styled.footer`
   color: ${({ theme }) => theme.color.wildBlueYonder};
   line-height: 26px;
 
-  @media (max-width: ${({ theme }) => theme.breakpoint.tablet}) {
+  @media (max-width: ${({ theme }) => theme.breakpoint.tablet}px) {
     margin: 142px 0 43px 0;
   }
 
-  @media (max-width: ${({ theme }) => theme.breakpoint.mobile}) {
+  @media (max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
     margin: 98px 0 50px 0;
   }
 `;

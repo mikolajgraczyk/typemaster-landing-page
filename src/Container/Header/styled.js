@@ -3,7 +3,7 @@ import { ReactComponent as Logo } from "./images/Logo.svg";
 
 export const StyledHeader = styled.header`
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
 `;
 
