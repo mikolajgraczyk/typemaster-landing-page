@@ -1,7 +1,13 @@
 import Container from "./Container";
+import PatternSquare from "./PatternSquare";
 
 function App() {
-  return <Container />;
+  return (
+    <>
+      <PatternSquare />
+      <Container />
+    </>
+  );
 }
 
 export default App;

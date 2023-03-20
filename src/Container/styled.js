@@ -5,8 +5,9 @@ export const StyledContainer = styled.div`
   margin: 55px auto;
   overflow: hidden;
   padding: 0 40px;
+  position: relative;
 
-  @media(max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
+  @media (max-width: ${({ theme }) => theme.breakpoint.mobile}px) {
     padding: 0 24px;
   }
 `;
