@@ -1,4 +1,4 @@
 # typemaster-landing-page
 
 ## Demo
-https://mikolajgraczyk.github.io/currency-converter-react/
+https://mikolajgraczyk.github.io/typemaster-landing-page/
