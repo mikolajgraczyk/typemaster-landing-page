@@ -3,6 +3,9 @@
 ## Description
 This project was a perfect opportunity to put my CSS skills to the test. The layout shifts from mobile, to tablet, to desktop was also a nice challenge. There is still some room for improvement, but overall I'm satisfiend with the result that I accomplished fully by myself. Design comes from [Frontend Mentor](https://www.frontendmentor.io/challenges).
 
+## Demo
+https://mikolajgraczyk.github.io/typemaster-landing-page/
+
 ![example](https://github.com/mikolajgraczyk/typemaster-landing-page/blob/main/public/demo.gif?raw=true)
 
 ## Technologies used in project
@@ -12,8 +15,6 @@ This project was a perfect opportunity to put my CSS skills to the test. The lay
 - React
 - SVG images
 - styledComponents
-## Demo
-https://mikolajgraczyk.github.io/typemaster-landing-page/
 
 In the project directory, you can run:
 
